@@ -93,4 +93,4 @@ Follow the deployment instructions to deploy the app to a remote server and sche
 ## [License](/LICENSE.md)
 
 to run the web app
-F
+FLASK_APP=web_app flask run
